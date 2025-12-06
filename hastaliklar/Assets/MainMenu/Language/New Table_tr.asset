@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New Table_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 19979dc7130906645bec4ecc5d0f266c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46715101184
+    m_Localized: "BA\u015ELA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108560113664
+    m_Localized: AYARLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156240961536
+    m_Localized: "\xC7IKI\u015E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251439079424
+    m_Localized: DURAKLAMA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394716504064
+    m_Localized: "ANA MEN\xDC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464555859968
+    m_Localized: DEVAM ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 540481150976
+    m_Localized: "M\xFCzik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 582088646656
+    m_Localized: Sesler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636841091072
+    m_Localized: "Dil Se\xE7imi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817208745984
+    m_Localized: "GER\u0130"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 857755082752
+    m_Localized: "OYUN B\u0130TT\u0130"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180360297046016
+    m_Localized: "EBEVEYNLER \u0130\xC7\u0130N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182322623143936
+    m_Localized: "Alerjik hastal\u0131\u011Fa sahip olan \xE7ocu\u011Funuz do\u011Fru
+      bilgi ile y\xF6netildi\u011Finde \xE7ocuklar sa\u011Fl\u0131kl\u0131 g\xFCvenli
+      ve mutu bir ya\u015Fam s\xFCrebilirler. \xC7ocu\u011Funuz i\xE7in yapabilece\u011Finiz
+      en iyi davran\u0131\u015Flar; Alerjiyi anlamak, tan\u0131mak, alerjiden ka\xE7\u0131nma
+      yollar\u0131n\u0131 \xF6\u011Frenmek, uygulamak, doktorun verdi\u011Fi ila\xE7lar\u0131
+      d\xFCzenli kullanmak, acil durum plan\u0131 olu\u015Fturnmak. Bu oyun size
+      ve \xE7ocu\u011Funuza temelde bu kazan\u0131mlar\u0131 kazanman\u0131z\u0131
+      sa\u011Flar. Oyun s\xFCresince \xE7ocuklar\u0131n\u0131za e\u015Flik etmeniz
+      \xE7ocu\u011Funuz a\xE7\u0131s\u0131ndan daha faydal\u0131 olacakt\u0131r.\nKeyifli
+      oyunlar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184454810165248
+    m_Localized: "OYUN SE\xC7\u0130M\u0130"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186968217477120
+    m_Localized: "S\xFCt ve S\xFCt \xDCr\xFCnleri Alerjisi Oyunu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 187075658768384
+    m_Localized: "Kimyasal/\u0130la\xE7 Alerjisi Oyunu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 187220425170944
+    m_Localized: "Ar\u0131/B\xF6cek Alerjisi Oyunu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 187284048568320
+    m_Localized: Alerjik Rinit Oyunu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 187352067596288
+    m_Localized: Atopik Dermatit (Egzama Alerjisi) Oyunu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
