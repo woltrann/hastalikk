@@ -12,6 +12,7 @@ public class MainMenu : MonoBehaviour
 {
     [Header("Panels")]
     public GameObject MainMenuPanel;
+    public GameObject GamePlayPanel;
     public GameObject GameChoosingPanel;
     public GameObject PauseMenuPanel;
     public GameObject SettingsMenuPanel;
@@ -58,6 +59,7 @@ public class MainMenu : MonoBehaviour
 
     public void GamesOpen(int index)
     {
+        GamePlayPanel.SetActive(true);
         switch(index)
         {
             case 1:
